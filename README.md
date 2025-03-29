@@ -11,15 +11,6 @@
     <img src="https://img.shields.io/badge/React Responsive Carousel-FFFFFF?style=for-the-badge&logo=react-responsive-carousel&logoColor=000000" alt="React Responsive Carousel" />
 </p>
 
-<p align="center"> 
-    <br />&#10023;
-    <a href="#Quick-Start">Quick Start</a>   &#10023;    
-    <a href="https://github.com/sumit-sharma-02/little-lemon-restaurant/issues">Report Bug</a>   &#10023;
-    <a href="#Contact">Author</a>&#10023;
-  </p>
-  
-  <h3 align="center"><a href="https://little-lemon-restaurant-sumit-sharma-02.vercel.app/"><strong>« Try the demo here »</strong></a></h3>
-
   <p align="center"> 
     Little Lemon Restaurant, a family run Mediterranean restaurant located in Chicago, Illinois. Please come and enjoy our wide selection of authentic Mediterranean cuisine!
   </p>
@@ -50,30 +41,3 @@
     <td><img src="https://user-images.githubusercontent.com/52236473/221522269-f805ba25-cca3-4ff6-9e9b-724e2b9b6725.png" alt="reservation-2" /></td>
   </tr>
 </table>
-
-## Quick Start
-
-```shell
-$ git clone https://github.com/sumit-sharma-02/little-lemon-restaurant.git
-$ cd little-lemon-restaurant
-$ npm install
-```
-
-### Launch the app
-
-Use the following command to run the app in your localhost.
-
-```
-npm start
-```
-
-## Contact
-
-If you want to contact me, you can reach me through below handles.
-
-[![linkedin](https://img.shields.io/badge/Sumit_Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumitsharma002/)
-[![Github](https://img.shields.io/badge/Sumit_Sharma-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/sumit-sharma-02/)
-
-## Show your support
-
-Give it a ⭐️ if you like it.
