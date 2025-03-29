@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://alexiscarbillet.github.io/reservations">Little Lemon Restaurant</a></h1>
+<h1 align="center"><a href="https://alexiscarbillet.github.io/little_lemon_website/">Little Lemon Restaurant</a></h1>
 
 <h2 align="center">A Front-end Restaurant App.</h2>
 
@@ -12,7 +12,7 @@
 </p>
 
   <p align="center"> 
-    <a href="https://alexiscarbillet.github.io/reservations">Little Lemon Restaurant</a>, a family run Mediterranean restaurant located in Chicago, Illinois. Please come and enjoy our wide selection of authentic Mediterranean cuisine!
+    <a href="https://alexiscarbillet.github.io/little_lemon_website/s">Little Lemon Restaurant</a>, a family run Mediterranean restaurant located in Chicago, Illinois. Please come and enjoy our wide selection of authentic Mediterranean cuisine!
   </p>
   
   ![little-lemon-restaurant-mockup](https://user-images.githubusercontent.com/52236473/221524124-f2ba25d6-4dd9-442f-9405-70f6a55da839.png)
@@ -44,4 +44,4 @@
 
 ## Website
 
-You can find the final result on <a href="https://alexiscarbillet.github.io/reservations">https://alexiscarbillet.github.io/reservations</a>.
+You can find the final result on <a href="https://alexiscarbillet.github.io/little_lemon_website/">https://alexiscarbillet.github.io/little_lemon_website/</a>.
